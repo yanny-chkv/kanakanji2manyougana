@@ -138,7 +138,7 @@ function kana2manyougana(inpstr) {
     txt=txt.replaceAll("た", "太")
     txt=txt.replaceAll("ち", "知")
     txt=txt.replaceAll("つ", "川")
-    txt=txt.replaceAll("っ", "")
+    txt=txt.replaceAll("っ", "氵")
     txt=txt.replaceAll("て", "天")
     txt=txt.replaceAll("と", "止")
 
