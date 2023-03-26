@@ -40,7 +40,7 @@ function kana2manyougana(inpstr) {
     txt=txt.replaceAll("タ", "多")
     txt=txt.replaceAll("チ", "千")
     txt=txt.replaceAll("ツ", "洲")
-    txt=txt.replaceAll("ッ", "州")
+    txt=txt.replaceAll("ッ", "汌")
     txt=txt.replaceAll("テ", "天")
     txt=txt.replaceAll("ト", "止")
 
@@ -137,8 +137,8 @@ function kana2manyougana(inpstr) {
 
     txt=txt.replaceAll("た", "太")
     txt=txt.replaceAll("ち", "知")
-    txt=txt.replaceAll("つ", "汌")
-    txt=txt.replaceAll("っ", "川")
+    txt=txt.replaceAll("つ", "杊")
+    txt=txt.replaceAll("っ", "汌")
     txt=txt.replaceAll("て", "天")
     txt=txt.replaceAll("と", "止")
 
